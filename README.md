@@ -46,7 +46,7 @@ Maintaining the geodesic path is critical during the transition from the **Vesse
 -----
 
 ## 💻 Code for this simulation
-# Kuka Robot Lauguage (KRL) 
+### Kuka Robot Lauguage (KRL) 
 <details>
 <summary><b>Click to view KRL Winding Logic</b></summary>
 
