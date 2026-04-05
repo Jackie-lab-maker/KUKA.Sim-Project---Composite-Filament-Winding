@@ -93,4 +93,4 @@ END
 
 **Note:** All data, CAD models, and images associated with this project are the intellectual property of **OPmobility**. This repository contains sanitized code and documentation approved for public demonstration of technical competency.
 
-*For inquiries regarding the methodology, please contact the repository owner.*m
+*For inquiries regarding the methodology, please contact the repository owner j66shao@uwaterloo.ca
