@@ -1,4 +1,4 @@
-# Digital Twin for Composite Filament Winding 🤖🧵
+# Digital Twin for Composite Filament Winding 
 
 [](https://www.google.com/search?q=https://www.opmobility.com/)
 [](https://www.google.com/search?q=https://www.kuka.com/)
