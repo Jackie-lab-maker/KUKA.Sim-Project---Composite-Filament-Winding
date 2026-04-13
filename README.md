@@ -13,13 +13,26 @@
                                                                                                                                                                                 
 </pre>
 </div>
+<div style="font-family: 'Courier New', Courier, monospace;">
 
-# Table of Contents
-- [OPmobility Projects](https://github.com/Jackie-lab-maker/KUKA.Sim-Projects/tree/main/OPmobility)
-  - [Subsection 1.1](#subsection-11)
-  - [Subsection 1.2](#subsection-12)
-  - [Subsection 1.3](#subsection-13)
-- [Personal Projects](https://github.com/Jackie-lab-maker/KUKA.Sim-Projects/tree/main/Personal)
-  - [Subsection 2.1](#subsection-21)
-  - [Subsection 2.2](#subsection-22)
-  - [Subsection 2.3](#subsection-23)
+<h1>Project Name</h1>
+
+<h2>Table of Contents</h2>
+<ul>
+  <li><a href="#section-1">Section 1</a>
+    <ul>
+      <li><a href="#subsection-11">Subsection 1.1</a></li>
+      <li><a href="#subsection-12">Subsection 1.2</a></li>
+      <li><a href="#subsection-13">Subsection 1.3</a></li>
+    </ul>
+  </li>
+  <li><a href="#section-2">Section 2</a>
+    <ul>
+      <li><a href="#subsection-21">Subsection 2.1</a></li>
+      <li><a href="#subsection-22">Subsection 2.2</a></li>
+      <li><a href="#subsection-23">Subsection 2.3</a></li>
+    </ul>
+  </li>
+</ul>
+
+<hr>
